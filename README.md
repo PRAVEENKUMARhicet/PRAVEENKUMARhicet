@@ -19,4 +19,4 @@ Electronics and Communication Engineering Student
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Praveenkumar710?theme=dark&font=Alice&ext=heatmap)](https://leetcode.com/u/Praveenkumar710/)
 
-[![Praveenkumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRAVEENKUMARhicet&bg_color=000000&color=ffffff&line=009936&point=bfbfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Praveenkumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRAVEENKUMARhicet&bg_color=000000&color=ffffff&line=009936&point=bfbfbf&area=true&hide_border=true)](https://github.com/PRAVEENKUMARhicet/github-readme-activity-graph)
